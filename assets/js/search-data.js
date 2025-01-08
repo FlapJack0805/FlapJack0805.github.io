@@ -464,7 +464,7 @@ ninja.data = [{
               window.location.href = "/projects/image_resizer/";
             },},{id: "projects-solar-car-light-board",
           title: 'Solar Car Light Board',
-          description: "with background image",
+          description: "PCB to control all lights on the car",
           section: "Projects",handler: () => {
               window.location.href = "/projects/light_board/";
             },},{id: "projects-pyranometer-board",
