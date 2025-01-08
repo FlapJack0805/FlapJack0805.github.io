@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Pyranometer Board
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: Solar Car
-giscus_comments: true
+title: Image Resizer
+description: a project that redirects to another website
+img: assets/img/Horse Image.png
+redirect: https://unsplash.com
+importance: 3
+category: Class
 ---
 
 Every project has a beautiful feature showcase page.

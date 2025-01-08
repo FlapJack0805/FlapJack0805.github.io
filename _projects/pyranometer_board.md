@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Four Function Calculator
-description: another without an image
-img:
-importance: 3
-category: Class
+title: Pyranometer Board
+description: a project with a background image and giscus comments
+img: assets/img/Final Pyranometer board PCB.png
+importance: 2
+category: Solar Car
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

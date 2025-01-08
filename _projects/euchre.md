@@ -1,10 +1,10 @@
 ---
 layout: page
-title: A* Algorithm
-description: a project with no image
-img:
-importance: 4
-category: Personal
+title: Euchre
+description: a project with a background image
+img: assets/img/euchre.jpg
+importance: 3
+category: Class
 ---
 
 Every project has a beautiful feature showcase page.
