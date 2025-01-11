@@ -408,9 +408,9 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/four_func_calc/";
-            },},{id: "projects-image-resizer",
-          title: 'Image Resizer',
-          description: "a project that redirects to another website",
+            },},{id: "projects-four-function-calculator",
+          title: 'Four Function Calculator',
+          description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/image_resizer/";
             },},{id: "projects-solar-car-light-board",
