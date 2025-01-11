@@ -3,7 +3,7 @@ layout: page
 title: Four Function Calculator
 description: another without an image
 img: assets/img/Horse Image.png
-importance: 3
+importance: 1
 category: Class
 ---
 
