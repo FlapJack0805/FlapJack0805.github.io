@@ -3,7 +3,7 @@ layout: page
 title: Four Function Calculator
 description: another without an image
 img: assets/img/calculator.jpg
-importance: 2
+importance: 3
 category: Hardware
 ---
 

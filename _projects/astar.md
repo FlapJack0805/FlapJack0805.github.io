@@ -3,7 +3,7 @@ layout: page
 title: A* Algorithm
 description: a project with no image
 img: assets/img/Astar_visualizer.png
-importance: 4
+importance: 3
 category: Software
 ---
 

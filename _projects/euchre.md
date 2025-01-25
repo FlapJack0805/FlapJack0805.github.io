@@ -3,7 +3,7 @@ layout: page
 title: Euchre
 description: a project with a background image
 img: assets/img/euchre.jpg
-importance: 3
+importance: 2
 category: Software
 ---
 
