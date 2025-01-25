@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Currently a junior in standing at the University of Michigan studying computer engineering. I've worked on everything from PCB design to software engineering. 
+I'm Currently a sophmore in standing at the University of Michigan studying computer engineering. I've worked on everything from PCB design to software engineering. 
 
 I have been able to gain experience through working with the University Solar Car Team, my classes, and passion projects. The top projects I've pursued are featured here on this website.
 

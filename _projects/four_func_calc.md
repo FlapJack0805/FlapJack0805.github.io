@@ -4,7 +4,7 @@ title: Four Function Calculator
 description: another without an image
 img: assets/img/calculator.jpg
 importance: 2
-category: Class
+category: Hardware
 ---
 
 Every project has a beautiful feature showcase page.

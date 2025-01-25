@@ -4,7 +4,7 @@ title: Four Function Calculator
 description: another without an image
 img: assets/img/Horse Image.png
 importance: 1
-category: Class
+category: Software
 ---
 
 For this project I used c++ to program an image resizer. Utilizing a seam carving algorithm this project allows you to shrink images vertically and horizontally.

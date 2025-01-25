@@ -4,7 +4,7 @@ title: Solar Car Light Board
 description: PCB to control all lights on the car
 img: assets/img/Light Board PCB.png
 importance: 1
-category: Solar Car
+category: Hardware
 related_publications: false
 ---
 

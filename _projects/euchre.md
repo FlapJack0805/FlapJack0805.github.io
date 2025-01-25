@@ -4,7 +4,7 @@ title: Euchre
 description: a project with a background image
 img: assets/img/euchre.jpg
 importance: 3
-category: Class
+category: Software
 ---
 
 Every project has a beautiful feature showcase page.

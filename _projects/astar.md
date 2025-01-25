@@ -4,7 +4,7 @@ title: A* Algorithm
 description: a project with no image
 img: assets/img/Astar_visualizer.png
 importance: 4
-category: Personal
+category: Software
 ---
 
 Every project has a beautiful feature showcase page.
