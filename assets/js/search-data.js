@@ -413,7 +413,7 @@ ninja.data = [{
               window.location.href = "/projects/light_board/";
             },},{id: "projects-pyranometer-board",
           title: 'Pyranometer Board',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pyranometer_board/";
             },},{
