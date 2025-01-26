@@ -379,9 +379,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-a-algorithm-visualizer",
-          title: 'A* Algorithm Visualizer',
-          description: "Interactive program that demonstrates the A* algorithm",
+          section: "News",},{id: "projects-astar-algorithm-visualizer",
+          title: 'Astar Algorithm Visualizer',
+          description: "Interactive program that demonstrates the Astar algorithm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/astar/";
             },},{id: "projects-euchre",
@@ -396,7 +396,7 @@ ninja.data = [{
               window.location.href = "/projects/four_func_calc/";
             },},{id: "projects-image-resizer",
           title: 'Image Resizer',
-          description: "Program that shrinks an input to a given size",
+          description: "Program that shrinks an image to a given size",
           section: "Projects",handler: () => {
               window.location.href = "/projects/image_resizer/";
             },},{id: "projects-solar-car-light-board",
