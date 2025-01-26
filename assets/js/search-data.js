@@ -398,12 +398,12 @@ ninja.data = [{
               window.location.href = "/projects/euchre/";
             },},{id: "projects-four-function-calculator",
           title: 'Four Function Calculator',
-          description: "another without an image",
+          description: "Hardware Design for a calculator supporting addition, subraction, multiplication, and division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/four_func_calc/";
-            },},{id: "projects-four-function-calculator",
-          title: 'Four Function Calculator',
-          description: "another without an image",
+            },},{id: "projects-image-resizer",
+          title: 'Image Resizer',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/image_resizer/";
             },},{id: "projects-solar-car-light-board",
@@ -413,7 +413,7 @@ ninja.data = [{
               window.location.href = "/projects/light_board/";
             },},{id: "projects-pyranometer-board",
           title: 'Pyranometer Board',
-          description: "",
+          description: "PCB that interfaces a Pyranometer with a laptop",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pyranometer_board/";
             },},{
