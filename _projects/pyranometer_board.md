@@ -42,6 +42,25 @@ Our pyranometer had only two analog output cords to connect to. Because of this 
     Partially Soldered PCB and Altium PCB Layout
 </div>
 
-After finishing up the Board I had to make sure my program worked with it. I had already written the code and conducted unit testing to make sure it worked but I had to make sure it interfaced with my PCB correctly. Everything worked and all I had to do was calibrate it to get correct results.
+Key features of the project include:
+
+-Pyranometer Integration: I connected the pyranometer to the PCB to measure the intensity of sunlight. The sensor converts light intensity into a voltage, which can be read and processed by the system.
+
+-PCB Design: I designed the custom PCB to connect with the pyranometer, ensuring that the layout was optimized for signal integrity and ease of integration with other components in the system.
+
+-Data Processing: The system collects and processes the voltage readings from the pyranometer, which are then fed to a computer for further analysis. This allows users to monitor sunlight intensity over time.
+
+-Power and Signal Integrity: Focused on ensuring stable power distribution and minimizing noise in the signal path to ensure accurate readings from the pyranometer.
+
+Through this project, I developed several key skills:
+
+-PCB Design: Gained experience designing PCBs for sensor integration, focusing on layout, power routing, and signal integrity.
+Sensor Integration: Improved my understanding of sensor interfacing, particularly in converting raw sensor data into a usable format for analysis.
+
+-Analog Signal Processing: Learned how to handle analog sensor outputs and convert them into digital values for further processing and visualization.
+
+-Embedded Systems: Enhanced my ability to integrate hardware components with software to build a functional system for real-world applications.
+
+This project provided a great opportunity to apply sensor integration and PCB design skills, and helped deepen my knowledge of data acquisition systems and environmental monitoring.
 
 

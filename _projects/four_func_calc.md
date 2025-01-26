@@ -1,70 +1,32 @@
 ---
 layout: page
 title: Four Function Calculator
-description: Hardware Design for a calculator supporting addition, subraction, multiplication, and division
+description: Verilog Design for a calculator supporting addition, subraction, multiplication, and division
 img: assets/img/calculator.jpg
 importance: 3
 category: Hardware
 ---
 
-Despite this project sounding very simple I didn't have much experience with Verilog and the skills used in this project were very foreign to me. It forced me to learn how to make an efficent datapath accompanied by complex control logic. I was forced to learn how to do arithmitic at the binary level which is no small task. After learning all the neccessary background knowledge I was able to begin making this project.
+For this project, I designed a four-function calculator using Verilog, capable of performing addition, subtraction, multiplication, and division operations. The goal was to create a simple yet effective calculator that could handle basic arithmetic operations on 11-bit inputs.
 
+Key features of the project include:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+-Verilog Design: I used Verilog to implement the calculator's logic, including modules for each arithmetic operation. The design is optimized for performance, with separate modules for each operation to ensure clarity and modularity.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+-Arithmetic Operations: The calculator supports four basic operations:
+Addition and Subtraction using standard binary arithmetic.
+Multiplication using a combination of shifts and adds to simulate multiplication.
+Division based on a shift-and-subtract approach to handle integer division.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+-User Input and Output: The calculator is designed to accept two 8-bit inputs and output the result of the selected operation.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+-Through this project, I developed several key skills:
 
-{% raw %}
+-Hardware Description Languages (HDL): Gained hands-on experience in Verilog, specifically in designing combinational and sequential circuits for arithmetic operations.
+Digital Logic Design: Strengthened my understanding of binary arithmetic and how to efficiently implement these operations at the hardware level.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+-Optimization: Focused on optimizing the Verilog design for speed and accuracy, while ensuring that each operation module was reusable and well-organized.
 
-{% endraw %}
+-Simulation and Testing: Used testbenches to simulate and verify the behavior of the design, ensuring that edge cases and normal cases were handled correctly.
+
+This project was an excellent opportunity to explore digital arithmetic and hardware design, and helped deepen my understanding of how complex operations are performed at the hardware level.

@@ -7,74 +7,26 @@ importance: 3
 category: Software
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+For this project, I developed an interactive maze solver using Pygame that allows users to create custom mazes and visualize the pathfinding process using the A algorithm*. The program not only solves the maze but also visually demonstrates how the A* algorithm finds the most efficient path from start to finish.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Key features of the project include:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+-Interactive Maze Creation: Users can create their own mazes by placing walls and defining start and end points directly in the graphical interface. This allows for an engaging and hands-on experience.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+-A Pathfinding Algorithm: The core of the project is the A* algorithm, which efficiently finds the shortest path through the maze by considering both the current distance and an estimate of the remaining distance to the goal (using a heuristic).
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+-Visualizing the Algorithm: To help users understand how A* works, the program slows down the process, showing each step of the algorithm as it explores the maze, calculates paths, and finds the solution.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+-Graphical Interface: Using Pygame, I created an intuitive graphical interface where users can interact with the maze and watch the A* algorithm in action, offering a clear visual representation of the algorithm's search process.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Through this project, I developed several key skills:
 
-{% raw %}
+-Algorithm Implementation: Strengthened my understanding of the A* algorithm, including how to implement it efficiently and visualize its steps in real-time.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+-Pygame Programming: Gained experience using Pygame to create interactive applications, focusing on user input, rendering, and game-like logic.
 
-{% endraw %}
+-Visualization Techniques: Enhanced my ability to present complex algorithms in an accessible and visually engaging manner, which is crucial for understanding computational concepts.
+
+-Problem Solving: Fine-tuned my ability to tackle algorithmic challenges, optimize performance, and create intuitive user experiences.
+This project was a great opportunity to explore pathfinding algorithms and how they can be applied to real-world scenarios, while also learning about visualization and user interaction.
+
