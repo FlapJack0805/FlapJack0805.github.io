@@ -398,12 +398,12 @@ ninja.data = [{
               window.location.href = "/projects/euchre/";
             },},{id: "projects-four-function-calculator",
           title: 'Four Function Calculator',
-          description: "Hardware Design for a calculator supporting addition, subraction, multiplication, and division",
+          description: "Verilog Design for a calculator supporting addition, subraction, multiplication, and division",
           section: "Projects",handler: () => {
               window.location.href = "/projects/four_func_calc/";
             },},{id: "projects-image-resizer",
           title: 'Image Resizer',
-          description: "",
+          description: "Program that shrinks an input to a given size",
           section: "Projects",handler: () => {
               window.location.href = "/projects/image_resizer/";
             },},{id: "projects-solar-car-light-board",
