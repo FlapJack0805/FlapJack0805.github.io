@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A* Algorithm
-description: a project with no image
+title: A* Algorithm Visualizer
+description: Interactive program that demonstrates the A* algorithm
 img: assets/img/Astar_visualizer.png
 importance: 3
 category: Software

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Euchre
-description: a project with a background image
+description: Euchre Card Game
 img: assets/img/euchre.jpg
 importance: 2
 category: Software
