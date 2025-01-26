@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jack Stifter",
+    "label": "Computer Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "stifterjack0805@gmail.com",
+    "phone": "(248) 907-5441",
+    "url": "https://flapjack0805.github.io/",
+    "summary": "Computer Engineering student planning on specailizing in Embedded Systems",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "131 W. Lafayette St",
+      "postalCode": "MI 48381",
+      "city": "Milford",
       "countryCode": "US",
-      "region": "California"
+      "region": "Michigan"
     },
     "profiles": [
       {
@@ -47,8 +47,8 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Michigan",
+      "location": "Ann Arbor",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
