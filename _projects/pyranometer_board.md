@@ -1,14 +1,21 @@
 ---
 layout: page
 title: Pyranometer Board
-description: a project with a background image and giscus comments
+description:
 img: assets/img/Final Pyranometer board PCB.png
 importance: 2
 category: Hardware
 giscus_comments: false
 ---
 
-The Pyranometer Board was a project that forced me to combine the things I've learned from both hardware and software engineering. I was required to design a PCB that could interace a pyranometer with a Laptop. I also made a program that published all of the data the board was recieving to a another program that would then organize the information for the Solar Car's race crew to use in the middle of the race.
+The Pyranometer Board was a project that forced me to 
+combine the things I've learned from both hardware and 
+software engineering. I was required to design a PCB that 
+could interace a pyranometer with a Laptop. I also made 
+a program that published all of the data the board was 
+recieving to a another program that would then organize 
+the information for the Solar Car's race crew to use in 
+the middle of the race.
 
 
 <div class="row">
@@ -24,10 +31,10 @@ Our pyranometer had only two analog output cords to connect to. Because of this 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Soldered Pyranometer Board.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Final Pyranometer board PCB.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Pyranometer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Soldered Pyranometer Board.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
