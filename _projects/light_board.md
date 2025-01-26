@@ -37,7 +37,7 @@ Key features of the project include:
 
 -Testing and Validation: I worked closely with the team to test the board in real-world conditions, ensuring that all lights performed reliably and that the PCB could handle the electrical demands of the vehicle.
 
--Through this project, I developed several key skills:
+Through this project, I developed several key skills:
 
 -PCB Design with Altium: Gained hands-on experience designing PCBs in Altium, focusing on optimizing layouts, power management, and component selection for real-world applications.
 

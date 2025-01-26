@@ -8,14 +8,8 @@ category: Hardware
 giscus_comments: false
 ---
 
-The Pyranometer Board was a project that forced me to 
-combine the things I've learned from both hardware and 
-software engineering. I was required to design a PCB that 
-could interace a pyranometer with a Laptop. I also made 
-a program that published all of the data the board was 
-recieving to a another program that would then organize 
-the information for the Solar Car's race crew to use in 
-the middle of the race.
+The Pyranometer Board was a project that forced me to combine the things I’ve learned from both hardware and software engineering. I was required to design a PCB that could interface a pyranometer with a Laptop. I also made a program that published all of the data the board was receiving to another program that would then organize the information for the Solar Car’s race crew to use in the middle of the race.
+
 
 
 <div class="row">

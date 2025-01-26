@@ -20,7 +20,7 @@ Division based on a shift-and-subtract approach to handle integer division.
 
 -User Input and Output: The calculator is designed to accept two 8-bit inputs and output the result of the selected operation.
 
--Through this project, I developed several key skills:
+Through this project, I developed several key skills:
 
 -Hardware Description Languages (HDL): Gained hands-on experience in Verilog, specifically in designing combinational and sequential circuits for arithmetic operations.
 Digital Logic Design: Strengthened my understanding of binary arithmetic and how to efficiently implement these operations at the hardware level.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Image Resizer
-description: Program that shrinks an input to a given size
+description: Program that shrinks an image to a given size
 img: assets/img/Horse Image.png
 importance: 1
 category: Software
