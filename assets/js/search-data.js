@@ -421,14 +421,14 @@ ninja.data = [{
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/https://www.instagram.com/jackstifter/", "_blank");
+          window.open("https://instagram.com/jackstifter", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/jackstifter/", "_blank");
+          window.open("https://www.linkedin.com/in/jackstifter", "_blank");
         },
       },{
       id: 'light-theme',
