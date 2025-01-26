@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pyranometer Board
-description:
+description: PCB that interfaces a Pyranometer with a laptop
 img: assets/img/Final Pyranometer board PCB.png
 importance: 2
 category: Hardware
@@ -20,12 +20,13 @@ the middle of the race.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pyranometer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pyranometer.jpg" title="example image" class="img-fluid rounded z-depth-1" style="max-width: 50%;" %}
     </div>
 </div>
 <div class="caption">
     Photo of Pyranometer
 </div>
+
 
 Our pyranometer had only two analog output cords to connect to. Because of this I had to use a two pin connector to input data, and a USB-C as the output.
 

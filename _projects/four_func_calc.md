@@ -1,24 +1,14 @@
 ---
 layout: page
 title: Four Function Calculator
-description: another without an image
+description: Hardware Design for a calculator supporting addition, subraction, multiplication, and division
 img: assets/img/calculator.jpg
 importance: 3
 category: Hardware
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Despite this project sounding very simple I didn't have much experience with Verilog and the skills used in this project were very foreign to me. It forced me to learn how to make an efficent datapath accompanied by complex control logic. I was forced to learn how to do arithmitic at the binary level which is no small task. After learning all the neccessary background knowledge I was able to begin making this project.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
