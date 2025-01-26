@@ -10,7 +10,7 @@ category: Software
 
 <div class="row">
     <div class="col-sm mt-12 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/imageresizer.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/imageresizer.png" title="Image Resizer Example" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
